@@ -8,3 +8,4 @@ version 1.1.1
 - update 2 at newfeature branch
 - update 3 at newfeature branch
 - fix bug 1 at hotfix-1.1.1 branch
+- fix bug 2 at hotfix-1.1.1 branch
