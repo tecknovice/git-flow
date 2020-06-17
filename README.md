@@ -1,4 +1,4 @@
-version 1.1.1
+version 1.1.2
 # git-flow
 - update 1 at develop branch
 - update 1 at myfeature branch
@@ -9,3 +9,4 @@ version 1.1.1
 - update 3 at newfeature branch
 - fix bug 1 at hotfix-1.1.1 branch
 - fix bug 2 at hotfix-1.1.1 branch
+- fix bug 1 at hotfix-1.1.2 branch
