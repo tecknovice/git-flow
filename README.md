@@ -1,4 +1,4 @@
-version 1.1
+version 1.1.1
 # git-flow
 - update 1 at develop branch
 - update 1 at myfeature branch
